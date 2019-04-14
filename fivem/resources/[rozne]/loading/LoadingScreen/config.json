@@ -1,0 +1,42 @@
+[
+	{
+		"useBackgroundColour" : "false",
+		"backgroundColour" : "20,20,20",
+		"useBackgroundImage" : "true",
+		"backgroundImagePath" : "images/backgroundImg1.jpg",
+		"useTextColour" : "false",
+		"textColour" : "0,0,0",
+		"useBoldText" : "false",
+		"serverTitle" : "Polish RP",
+		"playAudioInBackground" : "true",
+		"YTVideoID" : "J2X5mJ3HDYE",
+		"videoVolume" : "3"
+	},
+	{
+		"rule1" : "Nie rób VDM oraz RDM",
+		"rule2" : "Mikrofon to podstawa",
+		"rule3" : "Nie używaj bugów oraz glitchy",
+		"rule4" : "To chyba jasne. Nie cheatuj",
+		"rule5" : "Nie nadużywaj mocy admina",
+		"rule6" : "Tak samo co mocy właściciela",
+		"rule7" : "Używaj czatu zgodnie z jego przeznaczeniem"
+	},
+	{
+		"servers1" : "-",
+		"servers2" : "-",
+		"servers3" : "Discord: https://discord.gg/tWspAY",
+		"servers4" : "",
+		"servers5" : "",
+		"servers6" : "",
+		"servers7" : ""
+	},
+	{
+		"content1" : "Serwer tak maksymalnie polski jak to tylko możliwe",
+		"content2" : "Podmianki oraz addony do pojazdów i nie tylko",
+		"content3" : "Duża ilość prac",
+		"content4" : "System bankowości",
+		"content5" : "Autorskie skrypty",
+		"content6" : "Telefon oferujący wzywanie konkretnych frakcji",
+		"content7" : "-"
+	}
+]
