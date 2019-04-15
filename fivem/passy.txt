@@ -1,9 +1,0 @@
-couch
-
-root
-6hUlrfJ9AUfqbebnk48T
-
-mysql
-
-root
-AuRsYJXygkodJIHcJG1W
